@@ -1,6 +1,6 @@
 class printpattern{
 public static void main(String...a){
-int n =5;
+int n =10;
 int number=1; //variable to print output
 
 for(int i=1; i<=n;i++){
